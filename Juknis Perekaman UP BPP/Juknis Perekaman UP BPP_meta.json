@@ -1,0 +1,158 @@
+{
+    "languages": [
+        "id"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "DESKRIPSI SINGKAT",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                770.0,
+                0.0
+            ]
+        },
+        {
+            "title": "A. Langkah Awal Memulai Aplikasi Bendahara Pengeluaran Pembantu",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                738.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B. Merekam Alokasi UP BPP",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                185.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C. Mencatat Pemindahan Kas Bendahara Pegeluaran Pembantu",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                770.0,
+                0.0
+            ]
+        },
+        {
+            "title": "D. Pemindahan Kas Bank Bendahara Pengeluaran Pembantu",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                432.0,
+                0.0
+            ]
+        },
+        {
+            "title": "E. Pemindahan Kas Tunai Bendahara Pengeluaran Pembantu",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                526.0,
+                0.0
+            ]
+        },
+        {
+            "title": "F. Mencatat Perintah Bayar",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                770.0,
+                0.0
+            ]
+        },
+        {
+            "title": "F.1 Referensi Wajib Pajak/Wajib Setor",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                640.0,
+                0.0
+            ]
+        },
+        {
+            "title": "F.2 Mencatat Perintah Bayar (SPBy)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                375.0,
+                0.0
+            ]
+        },
+        {
+            "title": "I. Mencatat Pengembalian Uang Muka BPP",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                504.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 27,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 0,
+        "ocr_success": 2,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
